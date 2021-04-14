@@ -679,7 +679,7 @@ thead {
 
 /* ================= Color Presets ==================== */
 .brand-color {
-    color: #03a9f4 !important; /*theme primary color*/
+    color: #d8ad0f !important; /*theme primary color*/
 }
 .brand-color.darken-2 {
     color: #0288d1 !important;
@@ -2271,6 +2271,12 @@ KEY FRAME
     }
     .team-sec{
         padding-bottom: 70px;
+    }
+    .carousel-testimonial.gray-bg{
+        margin-bottom: 92px;
+    }
+    .team-sec{
+        padding-top: 5px;
     }
 }
 
