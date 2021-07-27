@@ -153,8 +153,9 @@ hr {
     font-size: 16px;
     line-height: 26px;
     border-radius: 2px;
-    background-color: #03a9f4; /*brand primary color*/
+    background-color: #000000; /*brand primary color*/
     border: 0;
+    color: #ffa502;
 }
 
 .btn-lg {
@@ -171,7 +172,8 @@ hr {
 }
 
 .btn:hover{
-    background-color: #03a9f4;
+    background-color: #ffa502;
+    color: #000000 !important;
 }
 
 .btn.active, 
@@ -343,6 +345,10 @@ thead {
 
 .section-padding {
     padding: 110px 0;
+}
+
+#who{
+    padding-top: 0px;
 }
 
 
