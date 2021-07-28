@@ -2344,4 +2344,17 @@ KEY FRAME
 , #d8ad0f, #c353534a);
 }
 
+.trademark{
+    color: #efad36;
+    font-weight: 100 !important;
+}
+
+.animate-btn{
+    font-weight: 500 !important;
+    font-size: 30px;
+    border-radius: 24px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
 
